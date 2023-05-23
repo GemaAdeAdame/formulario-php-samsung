@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Vibes&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Beastly&display=swap');
+
+* {
+  margin: 10;
+  padding: 10;
+}
+
+body {
+  background-color: #333;
+  background-size: cover;
+
+  font-size: 14px;
+  color: orange;
+}
+
+
+.container {
+  max-width: 80%;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.center-align {
+  font-family: 'Vibes';
+  color: orange;
+}
+
+.waves-effect.waves-light.btn {
+  background-color: orange;
+  font-family: 'Vibes';
+  font-size: 20px;
+}
+
+.waves-effect.waves-light.btn:hover {
+  box-shadow: 20px 20px 20px rgba(0, 0, 0, 0.5);
+}
+
+
